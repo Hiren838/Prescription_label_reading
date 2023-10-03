@@ -1,1 +1,0 @@
-# Prescription_label_reading
